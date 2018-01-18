@@ -3,5 +3,5 @@ title: HolaQueTal
 layout: default
 ---
 
-Hola qué tal estás hoy?
-Muy bien gracias
+<h2>Hola qué tal estás hoy?</h2>
+<p>Muy bien gracias</p>
