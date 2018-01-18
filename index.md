@@ -3,4 +3,4 @@ title: HolaQueTal
 layout: default
 ---
 
-Hola que tal
+Hola qué tal estás?
